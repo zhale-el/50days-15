@@ -14,16 +14,16 @@ body {
   height: 100vh;
   overflow: hidden;
 }
-.count-container {
+.counter-container {
   display: flex;
   flex-direction: column;
   margin: 30px 50px;
   text-align: center;
 }
-.count-container i {
+.counter-container i {
   font-size: 40px;
 }
-.count {
+.counter {
   font-size: 60px;
   margin-top: 10px;
 }
